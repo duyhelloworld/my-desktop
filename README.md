@@ -82,6 +82,6 @@ ___
 > All above lines is my desktop setting and I shared it here. <br>
 > I look forward to getting your recommendation!
 #### Contact to [me](https://facebook.com/duyhelloworld) .
-<h4 align"center">
-  <b>Of all things, I like books best</b>
- <h4>
+<p align="center">
+  <b>Of all things, I like books best</b> - Tesla
+ </p>
